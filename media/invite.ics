@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Central Standard Time (Mexico)
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=4
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Campus Recruitment | Astrid:mailto:CampusRecruitmentAstrid@enc
+ ora.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=FALSE;CN=Juan Carl
+ os Ramírez Brito:mailto:juan19941996ram@gmail.com
+DESCRIPTION;LANGUAGE=es-ES:La cita será con Astrid Rebeca Santacruz Hurtad
+ o.\n\nCampus Recruitment | Astrid\n\n\nAdministrar reserva<https://outlook
+ .office365.com:443/owa/calendar/CampusRecruitmentAstrid@encora.com/booking
+ s/UmZkABYP2023oqql2lTdIg2>\n\nÚnase a la reunión de Teams desde el explo
+ rador Web móvil:\n https://visit.teams.microsoft.com/webrtc-svc/api/route
+ ?tid=1e0c92b0-f1bd-441e-bbe6-c778f9ced553&convId=19:meeting_MDU2ZDk3ZTQtYW
+ JlMi00MzJmLThkY2EtYjY5NjgzMmIwODBl@thread.v2&oid=39de6a88-2a99-4818-ac0d-1
+ dc29b7b7833&JoinWebUrl=https%3a%2f%2fteams.microsoft.com%2fl%2fmeetup-join
+ %2f19%253ameeting_MDU2ZDk3ZTQtYWJlMi00MzJmLThkY2EtYjY5NjgzMmIwODBl%2540thr
+ ead.v2%2f0%3fcontext%3d%257b%2522Tid%2522%253a%25221e0c92b0-f1bd-441e-bbe6
+ -c778f9ced553%2522%252c%2522Oid%2522%253a%252239de6a88-2a99-4818-ac0d-1dc2
+ 9b7b7833%2522%257d%26webjoin%3dtrue%26unified%3dtrue&bid=CampusRecruitment
+ Astrid@encora.com&biz=0&aE=False&ssid=UmZkABYP2023oqql2lTdIg2\n Si vas a u
+ nirte desde otro dispositivo\, usa el siguiente vínculo.\n\n.............
+ ..........................................................................
+ ..................................................\nUnirse a la reunión d
+ e Teams\nes-ES\nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_MDU
+ 2ZDk3ZTQtYWJlMi00MzJmLThkY2EtYjY5NjgzMmIwODBl%40thread.v2/0?context=%7b%22
+ Tid%22%3a%221e0c92b0-f1bd-441e-bbe6-c778f9ced553%22%2c%22Oid%22%3a%2239de6
+ a88-2a99-4818-ac0d-1dc29b7b7833%22%7d\nId. de reunión: 248 951 343 237\n\
+ nSi necesita un número local\, consiga uno aquí. Si ha olvidado el PIN d
+ e acceso por marcado\, puede restablecerlo.\n\n\n\n\nMás información htt
+ ps://aka.ms/JoinTeamsMeeting |  | Opciones de la reunión: https://teams.m
+ icrosoft.com/meetingOptions/?organizerId=39de6a88-2a99-4818-ac0d-1dc29b7b7
+ 833&tenantId=1e0c92b0-f1bd-441e-bbe6-c778f9ced553&threadId=19_meeting_MDU2
+ ZDk3ZTQtYWJlMi00MzJmLThkY2EtYjY5NjgzMmIwODBl@thread.v2&messageId=0&languag
+ e=es-ES |\n...............................................................
+ ..........................................................................
+ \n
+UID:040000008200E00074C5B7101A82E00800000000B009691746F5D801000000000000000
+ 010000000DA2F7DC79586C24BA9AFC44AC1041742
+SUMMARY;LANGUAGE=es-ES:Reunión de 30 minutos
+DTSTART;TZID=Central Standard Time (Mexico):20221111T153000
+DTEND;TZID=Central Standard Time (Mexico):20221111T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20221110T205042Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=es-ES:
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:2120963760
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MDU2ZDk3ZTQtYWJlMi00MzJmLThkY2EtYjY5NjgzMmIwODBl%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%221e0c92b0-f1bd-441e-bbe6-c778f9ced553%22%2c%22O
+ id%22%3a%2239de6a88-2a99-4818-ac0d-1dc29b7b7833%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/1e0c92b0-f1bd-441e-bbe6-c778f9ced553/39de6a88-2a99-4818-ac0d-1
+ dc29b7b7833/19_meeting_MDU2ZDk3ZTQtYWJlMi00MzJmLThkY2EtYjY5NjgzMmIwODBl@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MDU2ZDk3ZTQtYWJlMi00MzJ
+ mLThkY2EtYjY5NjgzMmIwODBl@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:astrid.santacruz@encora.com\;gru
+ u\;opaque=app:conf:focus:id:teams:2:0!19:meeting_MDU2ZDk3ZTQtYWJlMi00MzJmL
+ ThkY2EtYjY5NjgzMmIwODBl-thread.v2!39de6a882a994818ac0d1dc29b7b7833!1e0c92b
+ 0f1bd441ebbe6c778f9ced553
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
